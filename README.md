@@ -1,10 +1,8 @@
-# What-expertise-do-penetration-testers-need?
-
-# Project: What expertise do penetration testers need?
+# What expertise do penetration testers need?
 
 ## Overview
 - **Duration**: Mar. 2023 – Jun. 2023
-- **Tools**: Python, NLP
+- **Tools**: Python - web scrapping and data science, NLP
 - **Description**: This project involved conducting research on cybersecurity job postings across four countries utilizing web scraping, data science, and natural language processing (NLP) techniques. The primary objective was to analyze the technical skills, soft skills, certifications, and experience requirements mentioned in the job postings. The insights derived from this analysis aimed to provide valuable guidance for job seekers, companies, and educational institutes in the cybersecurity domain.
 
 ## Methodology
