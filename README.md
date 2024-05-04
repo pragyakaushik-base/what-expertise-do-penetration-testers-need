@@ -9,7 +9,7 @@
 1. **Data Collection**: Initially, search terms were manually collected to identify relevant job postings. Web scraping techniques were then employed to collect data from various job listing websites.
 2. **Data Processing**: The collected data was filtered and processed to create structured and organized datasets. This involved cleaning, standardizing, and categorizing the job requirements.
 3. **Data Analysis**: Utilizing Python libraries such as pandas, matplotlib, and seaborn, visualizations were created to analyze the distribution and frequency of different skill sets, certifications, and experience levels mentioned in the job postings.
-4. **Natural Language Processing**: Explorations were conducted on improving the accuracy of results using Natural Language Processing (NLP) libraries like NLTK. This involved techniques such as text tokenization, part-of-speech tagging, and sentiment analysis to extract valuable insights from the textual data.
+4. **Natural Language Processing**: Explorations were conducted on improving the accuracy of results using Natural Language Processing (NLP) libraries like NLTK. This involved techniques such as text tokenization to extract valuable insights from the textual data.
 
 ## Presentation
 The findings and methodology of the project were presented in a formal presentation. The presentation showcased the research process, data analysis techniques, and key insights derived from the study. It served as a platform to disseminate the findings to peers, industry professionals, and academic mentors.
